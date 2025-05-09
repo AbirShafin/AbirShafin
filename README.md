@@ -7,9 +7,13 @@
 <img src="https://i.pinimg.com/originals/c9/0f/3d/c90f3d8ac1fb282c5841159a53bd4bfb.gif" align="right" width="400">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abirshafin&label=Profile%20views&color=0e75b6&style=flat" alt="abirshafin" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abirshafin&label=Profile%20views&color=0e75b6&style=flat" alt="abirshafin" />
+  <a href="https://twitter.com/shafin141" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/shafin141?logo=twitter&style=for-the-badge" alt="shafin141" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/shafin141" target="blank"><img src="https://img.shields.io/twitter/follow/shafin141?logo=twitter&style=for-the-badge" alt="shafin141" /></a> </p>
 
 - 🔭 I’m currently working on **building my skills**
 
