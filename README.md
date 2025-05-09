@@ -19,7 +19,7 @@
 
 - 📫 How to reach me : **abdullah.al.abirshafin@g.bracu.ac.bd**
 
-- 🎯 Fun fact : **I like to learn constantly and don't mind being wrong.**
+- 🎯 Fun fact : **I like to learn constantly and don't mind being wrong if I learn something out of my failure.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
