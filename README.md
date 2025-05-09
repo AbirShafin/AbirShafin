@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/10/45/0a/10450a83a7143343831fca9ec030fe47.gif)
+![MasterHead](https://i.pinimg.com/originals/36/2d/5c/362d5c55859146c0c7debfca296ad321.gif)
 
 <h1 align="center">Hello there, I'm Abdullah Al Abir Shafin</h1>
 <h3 align="center">A passionate learner of computer systems, UI/UX designing and programming.</h3>
