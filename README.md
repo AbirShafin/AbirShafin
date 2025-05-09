@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello there, I'm Abdullah Al Abir Shafin</h1>
 <h3 align="center">A passionate learner of computer systems, UI/UX designing and programming.</h3>
-<img src="https://i.pinimg.com/originals/c9/0f/3d/c90f3d8ac1fb282c5841159a53bd4bfb.gif" align="right" width="300">
+<img src="https://i.pinimg.com/originals/c9/0f/3d/c90f3d8ac1fb282c5841159a53bd4bfb.gif" align="right" width="400">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abirshafin&label=Profile%20views&color=0e75b6&style=flat" alt="abirshafin" /> </p>
