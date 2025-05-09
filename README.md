@@ -1,23 +1,23 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+![MasterHead](https://i.pinimg.com/originals/10/45/0a/10450a83a7143343831fca9ec030fe47.gif)
 
 <h1 align="center">Hello there, I'm Abdullah Al Abir Shafin</h1>
-<h3 align="center">A passionate learner of computer systems, designing and programming.</h3>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZ1ODIxaWMxemNsMndyZjZwdHhyamI5bXh4bXVlZGVlNTFzN2NjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dKc2fBq97S9gIzLX2j/giphy.gif" align="right" width="400">
+<h3 align="center">A passionate learner of computer systems, UI/UX designing and programming.</h3>
+<img src="https://i.pinimg.com/originals/c9/0f/3d/c90f3d8ac1fb282c5841159a53bd4bfb.gif" align="right" width="400">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abirshafin&label=Profile%20views&color=0e75b6&style=flat" alt="abirshafin" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shafin141" target="blank"><img src="https://img.shields.io/twitter/follow/shafin141?logo=twitter&style=for-the-badge" alt="shafin141" /></a> </p>
 
-- 🔭 I’m currently working on **an app called SafeZone**
+- 🔭 I’m currently working on **building my skills**
 
 - 🌱 I’m currently learning **Java, Javascript & Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbirShafin](https://github.com/AbirShafin)
+- 👨‍💻 All of my projects are available at : [https://github.com/AbirShafin](https://github.com/AbirShafin)
 
-- 📫 How to reach me **abdullah.al.abirshafin@g.bracu.ac.bd**
+- 📫 How to reach me : **abdullah.al.abirshafin@g.bracu.ac.bd**
 
-- ⚡ Fun fact **I like to learn constantly and don't mind being wrong.**
+- 🎯 Fun fact : **I like to learn constantly and don't mind being wrong.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
