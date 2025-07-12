@@ -47,7 +47,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abirshafin&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abirshafin" />
+ ![GitHub Streak](https://streak-stats.demolab.com/?user=abirshafin&theme=radical)
+
 </p>
 
 
