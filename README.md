@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://tenor.com/bMiv4.gif](https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif)" alt="MasterHead" />
+  <img src="[[[https://tenor.com/bMiv4.gif](https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif)](https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fthe-it-crowd-animated-gif--55872851612591060%2F&psig=AOvVaw2fr-7oq6Yyaebc2U6zgjNX&ust=1752428675321000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDHyt3vt44DFQAAAAAdAAAAABAL)" alt="MasterHead" />
 </div>
 
 <h1 align="center">Hello there, I'm Abdullah Al Abir Shafin</h1>
@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at : [https://github.com/AbirShafin](https://github.com/AbirShafin)
 
-- 📫 How to reach me : **abdullah.al.abirshafin@g.bracu.ac.bd**
+- 📫 You can reach me at : **abdullah.al.abirshafin@g.bracu.ac.bd**
 
 - 🎯 Fun fact : **I like to learn constantly and don't mind being wrong if I learn something out of my failure.**
 
