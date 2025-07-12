@@ -47,7 +47,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abirshafin&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=abirshafin&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abirshafin&theme=tokyo-night" />
+</p>
+
 
 
