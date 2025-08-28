@@ -5,7 +5,7 @@
 <h1 align="center">Hello there, I'm Abdullah Al Abir Shafin</h1>
 <h3 align="center">A passionate learner of computer systems, UI/UX designing and programming.</h3>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/c9/0f/3d/c90f3d8ac1fb282c5841159a53bd4bfb.gif" width="100">
+  <img src="https://i.pinimg.com/originals/c9/0f/3d/c90f3d8ac1fb282c5841159a53bd4bfb.gif" width="400">
 </div>
 
 
