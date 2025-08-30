@@ -27,13 +27,13 @@
 
 - 📫 You can reach me at : **abdullah.al.abirshafin@g.bracu.ac.bd**
 
-- 🎯 Fun fact : **I like to learn constantly and don't mind being wrong if I learn something out of my failure.**
+**I like to learn constantly and don't mind being wrong if I learn something out of my failure.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shafin141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shafin141" height="30" width="40" /></a>
+<a href="https://x.com/shafin141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shafin141" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/29851180/abdullah-al-abir-shafin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/29851180/abdullah-al-abir-shafin" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/shafin141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shafin141/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shafin141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shafin141/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/shafin_141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shafin_141/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uckova93bc5habyrs-yxgdlw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uckova93bc5habyrs-yxgdlw" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/abdullah_al_abi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abdullah_al_abi1" height="30" width="40" /></a>
