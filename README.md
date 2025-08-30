@@ -27,7 +27,7 @@
 
 - 📫 You can reach me at : **abdullah.al.abirshafin@g.bracu.ac.bd**
 
-<div align="center">**I like to learn constantly and don't mind being wrong if I learn something out of my failure.**</div>
+<div align="center"><p style="font-weight: bold; font-style: italic;">I like to learn constantly and don't mind being wrong if I learn something out of my failure.</p></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
