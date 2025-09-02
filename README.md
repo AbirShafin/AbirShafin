@@ -1,13 +1,5 @@
 
 
----
-
----
-
-
-> *"I like to learn constantly and don’t mind being wrong if I learn something from my mistakes."*
-
----
 
 ## 🛠️ Languages and Tools
 <p align="left">
