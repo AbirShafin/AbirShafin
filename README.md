@@ -4,11 +4,6 @@
 
 ---
 
-## 🌱 About Me
-- 🔭 I’m currently working on **building my skills** in programming and design.  
-- 🌱 I’m learning **Java, JavaScript & Python**.  
-- 👨‍💻 All of my projects are available at: [GitHub](https://github.com/AbirShafin)  
-- 📫 You can reach me at: **abdullah.al.abirshafin@g.bracu.ac.bd**  
 
 > *"I like to learn constantly and don’t mind being wrong if I learn something from my mistakes."*
 
