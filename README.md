@@ -2,11 +2,6 @@
 
 ---
 
-  <a href="https://github.com/AbirShafin" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-AbirShafin-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
-
 ---
 
 ## 🌱 About Me
