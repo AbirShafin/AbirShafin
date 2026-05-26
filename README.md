@@ -8,5 +8,6 @@ from embedded hardware to cloud infrastructure to decentralized networks.
 I learn by building, and I'm never afraid to be wrong about something.
 ```
 *"I don't mind being wrong, if I learn something out of it."* 
----
+```
 **Always the last one to give up.**
+```
