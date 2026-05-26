@@ -3,7 +3,7 @@
 ---
 
 
-**Last one to give up.** (GitHub Settings → Bio):
+**Last one to give up.**
 ```
 CSE @ BRAC University · Embedded Systems · Cloud · Blockchain · Always learning.
 ```
@@ -15,4 +15,4 @@ from embedded hardware to cloud infrastructure to decentralized networks.
 I learn by building, and I'm never afraid to be wrong about something.
 ```
 
-The key shifts from your current profile: dropped the emoji overload, removed the laundry-list format, and led with what makes you *interesting* rather than just listing skills. The quote you already have — *"I don't mind being wrong if I learn something"* — is genuinely good and worth keeping in some form.
+*"I don't mind being wrong if I learn something"* 
